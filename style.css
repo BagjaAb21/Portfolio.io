@@ -1,0 +1,20 @@
+/* 
+* = untuk class
+# = untuk id
+*/
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+.bg {
+  background-color: #e2edff;
+}
+
+.pt {
+  padding-top: 6rem;
+}
+
+.icon {
+  margin-left: 100px;
+}
